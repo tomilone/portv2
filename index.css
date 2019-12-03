@@ -1,0 +1,53 @@
+*{
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #222629;
+    color: ghostwhite;
+}
+
+h1 {
+    color: #86C232;
+}
+
+.header {
+    text-align: center;
+}
+
+.bio {
+    width: 300px;
+}
+
+h3 {
+    color: #86C232;
+}
+
+.quizapp{
+    height: 200px;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+} 
+
+.projects ul {
+    list-style: none;
+}
+
+.container {
+    width: 300px;
+}
+
+.container p {
+    text-align: center;
+}
+
+.projects, .about-me, footer {
+    border-top: 2px solid  #474B4F;
+}
+
+.projects ul {
+    display: flex;
+    margin-left: 0;
+    justify-content: left;
+}
